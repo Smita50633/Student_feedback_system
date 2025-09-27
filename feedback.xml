@@ -1,0 +1,20 @@
+<feedbacks>
+  <feedback>
+    <name>Anonymous</name>
+    <comment>Excellent course!</comment>
+    <course>CS101</course>
+    <date>2025-07-25</date>
+    <instructor>Dr. Smith</instructor>
+    <rating>5</rating>
+    <sentiment>Positive</sentiment>
+  </feedback>
+  <feedback name="Anonymous" comment="Excellent sessions" course="DBMS" date="2025-07-25" instructor="Champa" rating="5">
+    <sentiment>Pending</sentiment>
+  </feedback>
+  <feedback name="Lakshmi" comment="Teaching pace too fast" course="CN" date="2025-07-25" instructor="Manasa" rating="3">
+    <sentiment>Pending</sentiment>
+  </feedback>
+  <feedback name="Renuka" comment="Average" course="CN" date="2025-07-26" instructor="Tanuja" rating="3">
+    <sentiment>Pending</sentiment>
+  </feedback>
+</feedbacks>
